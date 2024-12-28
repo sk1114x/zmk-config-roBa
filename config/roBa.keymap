@@ -73,7 +73,7 @@
 &mt LEFT_SHIFT TAB  &kp LEFT_WIN  &kp LEFT_ALT  &lt 3 LANG2  &mt LCTRL LANG1  &mt LEFT_SHIFT SPACE      &lt 1 ENTER    &lt 2 BACKSPACE                             &lt 6 ESCAPE
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         NUM {
