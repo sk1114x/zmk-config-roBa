@@ -20,5 +20,5 @@
 #board: ["seeeduino_xiao_ble"]
 #shield: ["roBa_R","roBa_L","settings_reset"]
 
-board: ["seeeduino_xiao_ble/nrf52840"]
+board: ["xiao_ble"]
 shield: ["roBa_R", "roBa_L", "settings_reset"]
