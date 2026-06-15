@@ -17,5 +17,8 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
-board: ["seeeduino_xiao_ble"]
-shield: ["roBa_R","roBa_L","settings_reset"]
+#board: ["seeeduino_xiao_ble"]
+#shield: ["roBa_R","roBa_L","settings_reset"]
+
+board: ["seeeduino_xiao_ble/nrf52840"]
+shield: ["roBa_R", "roBa_L", "settings_reset"]
